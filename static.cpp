@@ -12,9 +12,7 @@
 #include <Integral_improper.hpp>
 using namespace std;
 
-int main(){
-    cout << "Hello" << endl;
-    
+int main(){   
     double m_mol = 0.1;
     double T_gas = 273.0;
     int N_gas = 1000000000;
