@@ -1,0 +1,6 @@
+C:/Users/User/VScode_Projects/C++/Static_Mexanic/build/CMakeFiles/rho_lib.dir
+C:/Users/User/VScode_Projects/C++/Static_Mexanic/build/CMakeFiles/potencial_lib.dir
+C:/Users/User/VScode_Projects/C++/Static_Mexanic/build/CMakeFiles/Integral_lib.dir
+C:/Users/User/VScode_Projects/C++/Static_Mexanic/build/CMakeFiles/static.dir
+C:/Users/User/VScode_Projects/C++/Static_Mexanic/build/CMakeFiles/edit_cache.dir
+C:/Users/User/VScode_Projects/C++/Static_Mexanic/build/CMakeFiles/rebuild_cache.dir

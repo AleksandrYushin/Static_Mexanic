@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/User/VScode_Projects/C++/Static_Mexanic/build",
+  "command": "C:\\Users\\User\\gcc\\bin\\g++.exe -Drho_lib_EXPORTS @CMakeFiles/rho_lib.dir/includes_CXX.rsp -g -o CMakeFiles\\rho_lib.dir\\include\\rho_lib\\rho.cpp.obj -c C:\\Users\\User\\VScode_Projects\\C++\\Static_Mexanic\\include\\rho_lib\\rho.cpp",
+  "file": "C:/Users/User/VScode_Projects/C++/Static_Mexanic/include/rho_lib/rho.cpp",
+  "output": "CMakeFiles/rho_lib.dir/include/rho_lib/rho.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/VScode_Projects/C++/Static_Mexanic/build",
+  "command": "C:\\Users\\User\\gcc\\bin\\g++.exe -Drho_lib_EXPORTS @CMakeFiles/rho_lib.dir/includes_CXX.rsp -g -o CMakeFiles\\rho_lib.dir\\include\\rho_lib\\rho_Macsvel.cpp.obj -c C:\\Users\\User\\VScode_Projects\\C++\\Static_Mexanic\\include\\rho_lib\\rho_Macsvel.cpp",
+  "file": "C:/Users/User/VScode_Projects/C++/Static_Mexanic/include/rho_lib/rho_Macsvel.cpp",
+  "output": "CMakeFiles/rho_lib.dir/include/rho_lib/rho_Macsvel.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/VScode_Projects/C++/Static_Mexanic/build",
+  "command": "C:\\Users\\User\\gcc\\bin\\g++.exe -Drho_lib_EXPORTS @CMakeFiles/rho_lib.dir/includes_CXX.rsp -g -o CMakeFiles\\rho_lib.dir\\include\\rho_lib\\rho_Bolcman.cpp.obj -c C:\\Users\\User\\VScode_Projects\\C++\\Static_Mexanic\\include\\rho_lib\\rho_Bolcman.cpp",
+  "file": "C:/Users/User/VScode_Projects/C++/Static_Mexanic/include/rho_lib/rho_Bolcman.cpp",
+  "output": "CMakeFiles/rho_lib.dir/include/rho_lib/rho_Bolcman.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/VScode_Projects/C++/Static_Mexanic/build",
+  "command": "C:\\Users\\User\\gcc\\bin\\g++.exe -Drho_lib_EXPORTS @CMakeFiles/rho_lib.dir/includes_CXX.rsp -g -o CMakeFiles\\rho_lib.dir\\include\\rho_lib\\rho_Fermi.cpp.obj -c C:\\Users\\User\\VScode_Projects\\C++\\Static_Mexanic\\include\\rho_lib\\rho_Fermi.cpp",
+  "file": "C:/Users/User/VScode_Projects/C++/Static_Mexanic/include/rho_lib/rho_Fermi.cpp",
+  "output": "CMakeFiles/rho_lib.dir/include/rho_lib/rho_Fermi.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/VScode_Projects/C++/Static_Mexanic/build",
+  "command": "C:\\Users\\User\\gcc\\bin\\g++.exe  @CMakeFiles/static.dir/includes_CXX.rsp -g -o CMakeFiles\\static.dir\\static.cpp.obj -c C:\\Users\\User\\VScode_Projects\\C++\\Static_Mexanic\\static.cpp",
+  "file": "C:/Users/User/VScode_Projects/C++/Static_Mexanic/static.cpp",
+  "output": "CMakeFiles/static.dir/static.cpp.obj"
+}
+]
