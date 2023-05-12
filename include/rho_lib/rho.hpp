@@ -1,12 +1,10 @@
 #ifndef RHO
 #define RHO
-
-#include <functional>
-using BinaryDoubleFn = std::function<double (double, double)>;
+#include <project_type.hpp>
 
 class rho {
     public:
-        rho (double m, double T, int N);
+        rho (double m, double T, int_my N);
         virtual double operator() (double p, double x) = 0;
         void normalization();
         double get_chemical_potential();
@@ -14,7 +12,7 @@ class rho {
     protected:
         double m;
         double T;
-        int N;
+        int_my N;
         double chemical_potential = 0;
 };
 #endif

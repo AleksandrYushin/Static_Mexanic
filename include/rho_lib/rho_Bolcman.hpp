@@ -5,7 +5,7 @@
 
 class rho_Bolcman : public rho{
     public:
-        rho_Bolcman (double m, double T, int N, potencial* f);
+        rho_Bolcman (double m, double T, int_my N, potencial* f);
         double operator() (double p, double x);
         BinaryDoubleFn this_reference();
     private:

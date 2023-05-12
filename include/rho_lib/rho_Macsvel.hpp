@@ -4,7 +4,7 @@
 
 class rho_Macsvel : public rho {
     public:
-        rho_Macsvel (double m, double T, int N);
+        rho_Macsvel (double m, double T, int_my N);
         double operator() (double p, double x);
         BinaryDoubleFn this_reference();
 };

@@ -5,7 +5,7 @@
 
 class rho_Fermi : public rho{
     public:
-        rho_Fermi (double m, double T, int N, energy* e);
+        rho_Fermi (double m, double T, int_my N, energy* e);
         double operator() (double p, double x);
         BinaryDoubleFn this_reference();
     private:

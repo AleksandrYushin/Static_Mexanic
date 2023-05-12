@@ -10,12 +10,13 @@
 #include <potencial_grav.hpp>
 #include <Integral.hpp>
 #include <Integral_improper.hpp>
+#include <project_type.hpp>
 using namespace std;
 
 int main(){   
     double m_mol = 1e-23;
     double T_gas = 273.0;
-    int N_gas = 100000000;
+    int_my N_gas = 100000000000000000000000;
 
     Integral_improper_infinity_2 I(0.001, 0.001);
 

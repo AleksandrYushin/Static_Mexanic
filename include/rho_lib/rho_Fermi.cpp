@@ -2,7 +2,7 @@
 #include <cmath>
 #include <Integral.hpp>
 
-rho_Fermi::rho_Fermi (double m, double T, int N, energy* e): e(e), rho(m, T, N) {};
+rho_Fermi::rho_Fermi (double m, double T, int_my N, energy* e): e(e), rho(m, T, N) {};
 double rho_Fermi::operator() (double p, double x) {
     return 1/ (exp((e->operator()(p, x) - chemical_potential) /T) + 1);
 };

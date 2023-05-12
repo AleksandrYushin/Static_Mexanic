@@ -167,6 +167,7 @@ CMakeFiles/static.dir/static.cpp.obj: \
  c:\users\user\gcc\include\c++\12.2.0\bits\istream.tcc \
  C:/Users/User/VScode_Projects/C++/Static_Mexanic/include/rho_lib/rho_Macsvel.hpp \
  C:/Users/User/VScode_Projects/C++/Static_Mexanic/include/rho_lib/rho.hpp \
+ C:/Users/User/VScode_Projects/C++/Static_Mexanic/include/project_type.hpp \
  C:/Users/User/VScode_Projects/C++/Static_Mexanic/include/rho_lib/rho_Bolcman.hpp \
  C:/Users/User/VScode_Projects/C++/Static_Mexanic/include/potencial_lib/potencial.hpp \
  C:/Users/User/VScode_Projects/C++/Static_Mexanic/include/potencial_lib/potencial_grav.hpp \

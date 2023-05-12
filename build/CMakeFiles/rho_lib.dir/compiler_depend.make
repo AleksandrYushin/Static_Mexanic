@@ -3,6 +3,7 @@
 
 CMakeFiles/rho_lib.dir/include/rho_lib/rho.cpp.obj: C:/Users/User/VScode_Projects/C++/Static_Mexanic/include/rho_lib/rho.cpp \
   C:/Users/User/VScode_Projects/C++/Static_Mexanic/include/rho_lib/rho.hpp \
+  C:/Users/User/VScode_Projects/C++/Static_Mexanic/include/project_type.hpp \
   C:/Users/User/gcc/include/c++/12.2.0/functional \
   C:/Users/User/gcc/include/c++/12.2.0/x86_64-w64-mingw32/bits/c++config.h \
   C:/Users/User/gcc/include/c++/12.2.0/x86_64-w64-mingw32/bits/os_defines.h \
@@ -86,6 +87,11 @@ CMakeFiles/rho_lib.dir/include/rho_lib/rho.cpp.obj: C:/Users/User/VScode_Project
   C:/Users/User/gcc/lib/gcc/x86_64-w64-mingw32/12.2.0/include/mm_malloc.h \
   C:/Users/User/gcc/x86_64-w64-mingw32/include/errno.h \
   C:/Users/User/gcc/include/c++/12.2.0/bits/std_abs.h \
+  C:/Users/User/gcc/include/c++/12.2.0/cstdint \
+  C:/Users/User/gcc/lib/gcc/x86_64-w64-mingw32/12.2.0/include/stdint.h \
+  C:/Users/User/gcc/x86_64-w64-mingw32/include/stdint.h \
+  C:/Users/User/gcc/lib/gcc/x86_64-w64-mingw32/12.2.0/include/stddef.h \
+  C:/Users/User/gcc/x86_64-w64-mingw32/include/stddef.h \
   C:/Users/User/gcc/include/c++/12.2.0/cmath \
   C:/Users/User/gcc/x86_64-w64-mingw32/include/math.h \
   C:/Users/User/gcc/include/c++/12.2.0/bits/specfun.h \
@@ -121,13 +127,8 @@ CMakeFiles/rho_lib.dir/include/rho_lib/rho.cpp.obj: C:/Users/User/VScode_Project
   C:/Users/User/gcc/include/c++/12.2.0/exception \
   C:/Users/User/gcc/include/c++/12.2.0/bits/exception_ptr.h \
   C:/Users/User/gcc/include/c++/12.2.0/bits/cxxabi_init_exception.h \
-  C:/Users/User/gcc/lib/gcc/x86_64-w64-mingw32/12.2.0/include/stddef.h \
-  C:/Users/User/gcc/x86_64-w64-mingw32/include/stddef.h \
   C:/Users/User/gcc/include/c++/12.2.0/bits/nested_exception.h \
   C:/Users/User/gcc/include/c++/12.2.0/bits/char_traits.h \
-  C:/Users/User/gcc/include/c++/12.2.0/cstdint \
-  C:/Users/User/gcc/lib/gcc/x86_64-w64-mingw32/12.2.0/include/stdint.h \
-  C:/Users/User/gcc/x86_64-w64-mingw32/include/stdint.h \
   C:/Users/User/gcc/include/c++/12.2.0/bits/localefwd.h \
   C:/Users/User/gcc/include/c++/12.2.0/x86_64-w64-mingw32/bits/c++locale.h \
   C:/Users/User/gcc/include/c++/12.2.0/clocale \
@@ -175,6 +176,7 @@ CMakeFiles/rho_lib.dir/include/rho_lib/rho.cpp.obj: C:/Users/User/VScode_Project
 CMakeFiles/rho_lib.dir/include/rho_lib/rho_Bolcman.cpp.obj: C:/Users/User/VScode_Projects/C++/Static_Mexanic/include/rho_lib/rho_Bolcman.cpp \
   C:/Users/User/VScode_Projects/C++/Static_Mexanic/include/rho_lib/rho_Bolcman.hpp \
   C:/Users/User/VScode_Projects/C++/Static_Mexanic/include/rho_lib/rho.hpp \
+  C:/Users/User/VScode_Projects/C++/Static_Mexanic/include/project_type.hpp \
   C:/Users/User/gcc/include/c++/12.2.0/functional \
   C:/Users/User/gcc/include/c++/12.2.0/x86_64-w64-mingw32/bits/c++config.h \
   C:/Users/User/gcc/include/c++/12.2.0/x86_64-w64-mingw32/bits/os_defines.h \
@@ -258,6 +260,11 @@ CMakeFiles/rho_lib.dir/include/rho_lib/rho_Bolcman.cpp.obj: C:/Users/User/VScode
   C:/Users/User/gcc/lib/gcc/x86_64-w64-mingw32/12.2.0/include/mm_malloc.h \
   C:/Users/User/gcc/x86_64-w64-mingw32/include/errno.h \
   C:/Users/User/gcc/include/c++/12.2.0/bits/std_abs.h \
+  C:/Users/User/gcc/include/c++/12.2.0/cstdint \
+  C:/Users/User/gcc/lib/gcc/x86_64-w64-mingw32/12.2.0/include/stdint.h \
+  C:/Users/User/gcc/x86_64-w64-mingw32/include/stdint.h \
+  C:/Users/User/gcc/lib/gcc/x86_64-w64-mingw32/12.2.0/include/stddef.h \
+  C:/Users/User/gcc/x86_64-w64-mingw32/include/stddef.h \
   C:/Users/User/VScode_Projects/C++/Static_Mexanic/include/potencial_lib/potencial.hpp \
   C:/Users/User/gcc/include/c++/12.2.0/cmath \
   C:/Users/User/gcc/x86_64-w64-mingw32/include/math.h \
@@ -280,6 +287,7 @@ CMakeFiles/rho_lib.dir/include/rho_lib/rho_Bolcman.cpp.obj: C:/Users/User/VScode
 CMakeFiles/rho_lib.dir/include/rho_lib/rho_Fermi.cpp.obj: C:/Users/User/VScode_Projects/C++/Static_Mexanic/include/rho_lib/rho_Fermi.cpp \
   C:/Users/User/VScode_Projects/C++/Static_Mexanic/include/rho_lib/rho_Fermi.hpp \
   C:/Users/User/VScode_Projects/C++/Static_Mexanic/include/rho_lib/rho.hpp \
+  C:/Users/User/VScode_Projects/C++/Static_Mexanic/include/project_type.hpp \
   C:/Users/User/gcc/include/c++/12.2.0/functional \
   C:/Users/User/gcc/include/c++/12.2.0/x86_64-w64-mingw32/bits/c++config.h \
   C:/Users/User/gcc/include/c++/12.2.0/x86_64-w64-mingw32/bits/os_defines.h \
@@ -363,6 +371,11 @@ CMakeFiles/rho_lib.dir/include/rho_lib/rho_Fermi.cpp.obj: C:/Users/User/VScode_P
   C:/Users/User/gcc/lib/gcc/x86_64-w64-mingw32/12.2.0/include/mm_malloc.h \
   C:/Users/User/gcc/x86_64-w64-mingw32/include/errno.h \
   C:/Users/User/gcc/include/c++/12.2.0/bits/std_abs.h \
+  C:/Users/User/gcc/include/c++/12.2.0/cstdint \
+  C:/Users/User/gcc/lib/gcc/x86_64-w64-mingw32/12.2.0/include/stdint.h \
+  C:/Users/User/gcc/x86_64-w64-mingw32/include/stdint.h \
+  C:/Users/User/gcc/lib/gcc/x86_64-w64-mingw32/12.2.0/include/stddef.h \
+  C:/Users/User/gcc/x86_64-w64-mingw32/include/stddef.h \
   C:/Users/User/VScode_Projects/C++/Static_Mexanic/include/potencial_lib/energy.hpp \
   C:/Users/User/gcc/include/c++/12.2.0/cmath \
   C:/Users/User/gcc/x86_64-w64-mingw32/include/math.h \
@@ -385,6 +398,7 @@ CMakeFiles/rho_lib.dir/include/rho_lib/rho_Fermi.cpp.obj: C:/Users/User/VScode_P
 CMakeFiles/rho_lib.dir/include/rho_lib/rho_Macsvel.cpp.obj: C:/Users/User/VScode_Projects/C++/Static_Mexanic/include/rho_lib/rho_Macsvel.cpp \
   C:/Users/User/VScode_Projects/C++/Static_Mexanic/include/rho_lib/rho_Macsvel.hpp \
   C:/Users/User/VScode_Projects/C++/Static_Mexanic/include/rho_lib/rho.hpp \
+  C:/Users/User/VScode_Projects/C++/Static_Mexanic/include/project_type.hpp \
   C:/Users/User/gcc/include/c++/12.2.0/functional \
   C:/Users/User/gcc/include/c++/12.2.0/x86_64-w64-mingw32/bits/c++config.h \
   C:/Users/User/gcc/include/c++/12.2.0/x86_64-w64-mingw32/bits/os_defines.h \
@@ -468,6 +482,11 @@ CMakeFiles/rho_lib.dir/include/rho_lib/rho_Macsvel.cpp.obj: C:/Users/User/VScode
   C:/Users/User/gcc/lib/gcc/x86_64-w64-mingw32/12.2.0/include/mm_malloc.h \
   C:/Users/User/gcc/x86_64-w64-mingw32/include/errno.h \
   C:/Users/User/gcc/include/c++/12.2.0/bits/std_abs.h \
+  C:/Users/User/gcc/include/c++/12.2.0/cstdint \
+  C:/Users/User/gcc/lib/gcc/x86_64-w64-mingw32/12.2.0/include/stdint.h \
+  C:/Users/User/gcc/x86_64-w64-mingw32/include/stdint.h \
+  C:/Users/User/gcc/lib/gcc/x86_64-w64-mingw32/12.2.0/include/stddef.h \
+  C:/Users/User/gcc/x86_64-w64-mingw32/include/stddef.h \
   C:/Users/User/gcc/include/c++/12.2.0/cmath \
   C:/Users/User/gcc/x86_64-w64-mingw32/include/math.h \
   C:/Users/User/gcc/include/c++/12.2.0/bits/specfun.h \
@@ -485,6 +504,8 @@ CMakeFiles/rho_lib.dir/include/rho_lib/rho_Macsvel.cpp.obj: C:/Users/User/VScode
   C:/Users/User/gcc/include/c++/12.2.0/tr1/poly_laguerre.tcc \
   C:/Users/User/gcc/include/c++/12.2.0/tr1/riemann_zeta.tcc
 
+
+C:/Users/User/VScode_Projects/C++/Static_Mexanic/include/project_type.hpp:
 
 C:/Users/User/gcc/include/c++/12.2.0/bits/stl_iterator_base_types.h:
 
@@ -572,8 +593,6 @@ C:/Users/User/gcc/include/c++/12.2.0/typeinfo:
 
 C:/Users/User/gcc/include/c++/12.2.0/bits/functexcept.h:
 
-C:/Users/User/gcc/include/c++/12.2.0/bits/stl_heap.h:
-
 C:/Users/User/gcc/include/c++/12.2.0/ext/alloc_traits.h:
 
 C:/Users/User/gcc/include/c++/12.2.0/initializer_list:
@@ -638,6 +657,8 @@ C:/Users/User/gcc/include/c++/12.2.0/cstdint:
 
 C:/Users/User/gcc/include/c++/12.2.0/compare:
 
+C:/Users/User/gcc/include/c++/12.2.0/bits/stl_heap.h:
+
 C:/Users/User/gcc/x86_64-w64-mingw32/include/stdlib.h:
 
 C:/Users/User/gcc/include/c++/12.2.0/bits/stl_tempbuf.h:
@@ -682,13 +703,21 @@ C:/Users/User/gcc/x86_64-w64-mingw32/include/wchar.h:
 
 C:/Users/User/gcc/include/c++/12.2.0/bits/std_abs.h:
 
-C:/Users/User/gcc/x86_64-w64-mingw32/include/math.h:
+C:/Users/User/gcc/lib/gcc/x86_64-w64-mingw32/12.2.0/include/stdint.h:
 
-C:/Users/User/gcc/include/c++/12.2.0/bits/specfun.h:
+C:/Users/User/gcc/include/c++/12.2.0/bits/ostream_insert.h:
+
+C:/Users/User/gcc/x86_64-w64-mingw32/include/stdint.h:
+
+C:/Users/User/gcc/lib/gcc/x86_64-w64-mingw32/12.2.0/include/stddef.h:
+
+C:/Users/User/gcc/include/c++/12.2.0/limits:
 
 C:/Users/User/gcc/x86_64-w64-mingw32/include/stddef.h:
 
-C:/Users/User/gcc/include/c++/12.2.0/limits:
+C:/Users/User/gcc/x86_64-w64-mingw32/include/math.h:
+
+C:/Users/User/gcc/include/c++/12.2.0/bits/specfun.h:
 
 C:/Users/User/gcc/include/c++/12.2.0/tr1/gamma.tcc:
 
@@ -746,15 +775,7 @@ C:/Users/User/gcc/include/c++/12.2.0/bits/exception_ptr.h:
 
 C:/Users/User/gcc/include/c++/12.2.0/bits/cxxabi_init_exception.h:
 
-C:/Users/User/gcc/lib/gcc/x86_64-w64-mingw32/12.2.0/include/stddef.h:
-
 C:/Users/User/gcc/include/c++/12.2.0/bits/char_traits.h:
-
-C:/Users/User/gcc/lib/gcc/x86_64-w64-mingw32/12.2.0/include/stdint.h:
-
-C:/Users/User/gcc/include/c++/12.2.0/bits/ostream_insert.h:
-
-C:/Users/User/gcc/x86_64-w64-mingw32/include/stdint.h:
 
 C:/Users/User/VScode_Projects/C++/Static_Mexanic/include/rho_lib/rho_Bolcman.cpp:
 
