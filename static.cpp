@@ -13,9 +13,9 @@
 using namespace std;
 
 int main(){   
-    double m_mol = 0.1;
+    double m_mol = 1e-23;
     double T_gas = 273.0;
-    int N_gas = 1000000000;
+    int N_gas = 100000000;
 
     Integral_improper_infinity_2 I(0.001, 0.001);
 
