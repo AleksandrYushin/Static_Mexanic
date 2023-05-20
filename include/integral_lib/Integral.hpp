@@ -1,8 +1,7 @@
 #ifndef INTEGRAL
 #define INTEGRAL
 
-#include <functional>
-using BinaryDoubleFn = std::function<double (double, double)>;
+#include <project_type.hpp>
 
 //      Релизации обращения к функционалам
 //      avto A

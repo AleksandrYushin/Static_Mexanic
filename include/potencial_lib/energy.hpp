@@ -1,5 +1,8 @@
 #ifndef ENERGY
 #define ENERGY
+
+#include <project_type.hpp>
+
 class energy {
     public:
         energy () {};

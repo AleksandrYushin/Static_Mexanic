@@ -31,4 +31,25 @@ public:
     };
 };
 
+class Integral_identify_1 : public Integral_identify{
+public:
+    Integral_identify_1(double lower, double upper, double division): Integral_identify(lower, upper, division) {};
+    double operator() (UnaryDoubleFn A, UnaryDoubleFn B){
+        double I = 0; // здесь будет интеграл
+        int n = (upper - lower) / division;
+        for (int i = 1; i <= n; i++){
+            I+= A(division*i)*B(division*i)*division;
+        }
+        return I;
+    };
+    double operator() (UnaryDoubleFn A){
+        double I = 0; // здесь будет интеграл
+        int n = (upper - lower) / division;
+        for (int i = 1; i <= n; i++){
+            I+= A(division*i)*division;
+        }
+        return I;
+    };
+};
+
 #endif

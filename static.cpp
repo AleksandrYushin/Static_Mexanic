@@ -16,9 +16,9 @@ using namespace std;
 int main(){   
     double m_mol = 1e-23;
     double T_gas = 273.0;
-    int_my N_gas = 100000000000000000000000;
+    int_my N_gas = 10;
 
-    Integral_improper_infinity_2 I(0.001, 0.001);
+    Integral_improper_infinity_2 I(0.0001, 0.0001);
 
     //Например распределение Максвелла
     rho_Macsvel q = {m_mol, T_gas, N_gas};
@@ -27,10 +27,10 @@ int main(){
     cout << s_Kinetik << " " << N_gas*s_Kinetik << endl;
 
     // //Распределение Больцмана
-    // potencial_grav f_gr = potencial_grav(10.0);
+    // potencial_grav f_gr = potencial_grav(10000.0);
     // rho_Bolcman b = rho_Bolcman(m_mol, T_gas, N_gas, &f_gr);
-    // cout << b.get_chemical_potential() << endl;
-    // double s_Potenik = I( [m_mol, f_gr] (double p, double x) mutable {return m_mol * f_gr(x);} , b);
+    // Integral_identify_2 I2(10, 11, 0.01);
+    // double s_Potenik = I2( [m_mol, f_gr] (double p, double x) mutable {return 1;} , b); //m_mol * f_gr(x)
     // cout << s_Potenik << endl;
 
     //Физика
