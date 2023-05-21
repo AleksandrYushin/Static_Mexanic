@@ -10,7 +10,6 @@ class rho_Fermi : public rho{
         BinaryDoubleFn this_reference() final;
     private:
         energy* e;
-        double chemical_potential;
 };
 
 #endif

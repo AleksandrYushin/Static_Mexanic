@@ -13,6 +13,6 @@ class rho {
         double m;
         double T;
         int_my N;
-        double chemical_potential = -2000;
+        double chemical_potential = -2;
 };
 #endif
