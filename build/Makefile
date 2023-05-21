@@ -167,6 +167,30 @@ static/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\static.dir\build.make CMakeFiles/static.dir/build
 .PHONY : static/fast
 
+include/potencial_lib/potencial_grav.obj: include/potencial_lib/potencial_grav.cpp.obj
+.PHONY : include/potencial_lib/potencial_grav.obj
+
+# target to build an object file
+include/potencial_lib/potencial_grav.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\potencial_lib.dir\build.make CMakeFiles/potencial_lib.dir/include/potencial_lib/potencial_grav.cpp.obj
+.PHONY : include/potencial_lib/potencial_grav.cpp.obj
+
+include/potencial_lib/potencial_grav.i: include/potencial_lib/potencial_grav.cpp.i
+.PHONY : include/potencial_lib/potencial_grav.i
+
+# target to preprocess a source file
+include/potencial_lib/potencial_grav.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\potencial_lib.dir\build.make CMakeFiles/potencial_lib.dir/include/potencial_lib/potencial_grav.cpp.i
+.PHONY : include/potencial_lib/potencial_grav.cpp.i
+
+include/potencial_lib/potencial_grav.s: include/potencial_lib/potencial_grav.cpp.s
+.PHONY : include/potencial_lib/potencial_grav.s
+
+# target to generate assembly for a file
+include/potencial_lib/potencial_grav.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\potencial_lib.dir\build.make CMakeFiles/potencial_lib.dir/include/potencial_lib/potencial_grav.cpp.s
+.PHONY : include/potencial_lib/potencial_grav.cpp.s
+
 include/rho_lib/rho.obj: include/rho_lib/rho.cpp.obj
 .PHONY : include/rho_lib/rho.obj
 
@@ -299,6 +323,9 @@ help:
 	@echo ... potencial_lib
 	@echo ... rho_lib
 	@echo ... static
+	@echo ... include/potencial_lib/potencial_grav.obj
+	@echo ... include/potencial_lib/potencial_grav.i
+	@echo ... include/potencial_lib/potencial_grav.s
 	@echo ... include/rho_lib/rho.obj
 	@echo ... include/rho_lib/rho.i
 	@echo ... include/rho_lib/rho.s

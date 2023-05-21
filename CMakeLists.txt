@@ -10,7 +10,7 @@ include_directories(
 
 set(SOURCE_EXE static.cpp)
 set(SOURCE_LIB1 include/rho_lib/rho.cpp include/rho_lib/rho_Macsvel.cpp include/rho_lib/rho_Bolcman.cpp include/rho_lib/rho_Fermi.cpp)
-set(SOURCE_LIB2 include/potencial_lib/potencial.hpp include/potencial_lib/potencial_grav.hpp include/potencial_lib/energy.hpp include/potencial_lib/energy_v1.hpp)
+set(SOURCE_LIB2 include/potencial_lib/potencial.hpp include/potencial_lib/potencial_grav.cpp include/potencial_lib/energy.hpp include/potencial_lib/energy_v1.hpp)
 set(SOURCE_LIB3 include/integral_lib/Integral.hpp include/integral_lib/Integral_improper.hpp include/integral_lib/Integral_identify.hpp)
 
 add_library(rho_lib SHARED ${SOURCE_LIB1})

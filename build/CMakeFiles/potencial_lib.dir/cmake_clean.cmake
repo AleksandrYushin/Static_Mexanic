@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/potencial_lib.dir/include/potencial_lib/potencial_grav.cpp.obj"
+  "CMakeFiles/potencial_lib.dir/include/potencial_lib/potencial_grav.cpp.obj.d"
   "libpotencial_lib.dll"
   "libpotencial_lib.dll.a"
   "libpotencial_lib.dll.manifest"
@@ -6,6 +8,6 @@ file(REMOVE_RECURSE
 )
 
 # Per-language clean rules from dependency scanning.
-foreach(lang )
+foreach(lang CXX)
   include(CMakeFiles/potencial_lib.dir/cmake_clean_${lang}.cmake OPTIONAL)
 endforeach()

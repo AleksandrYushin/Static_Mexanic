@@ -25,6 +25,12 @@
 },
 {
   "directory": "C:/Users/User/VScode_Projects/C++/Static_Mexanic/build",
+  "command": "C:\\Users\\User\\gcc\\bin\\g++.exe -Dpotencial_lib_EXPORTS @CMakeFiles/potencial_lib.dir/includes_CXX.rsp -g -o CMakeFiles\\potencial_lib.dir\\include\\potencial_lib\\potencial_grav.cpp.obj -c C:\\Users\\User\\VScode_Projects\\C++\\Static_Mexanic\\include\\potencial_lib\\potencial_grav.cpp",
+  "file": "C:/Users/User/VScode_Projects/C++/Static_Mexanic/include/potencial_lib/potencial_grav.cpp",
+  "output": "CMakeFiles/potencial_lib.dir/include/potencial_lib/potencial_grav.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/VScode_Projects/C++/Static_Mexanic/build",
   "command": "C:\\Users\\User\\gcc\\bin\\g++.exe  @CMakeFiles/static.dir/includes_CXX.rsp -g -o CMakeFiles\\static.dir\\static.cpp.obj -c C:\\Users\\User\\VScode_Projects\\C++\\Static_Mexanic\\static.cpp",
   "file": "C:/Users/User/VScode_Projects/C++/Static_Mexanic/static.cpp",
   "output": "CMakeFiles/static.dir/static.cpp.obj"

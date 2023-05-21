@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "C:/Users/User/VScode_Projects/C++/Static_Mexanic/include/potencial_lib/potencial_grav.cpp" "CMakeFiles/potencial_lib.dir/include/potencial_lib/potencial_grav.cpp.obj" "gcc" "CMakeFiles/potencial_lib.dir/include/potencial_lib/potencial_grav.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
