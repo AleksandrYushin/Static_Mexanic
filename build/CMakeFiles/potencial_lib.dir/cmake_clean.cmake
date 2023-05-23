@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/potencial_lib.dir/include/potencial_lib/energy_v1.cpp.obj"
+  "CMakeFiles/potencial_lib.dir/include/potencial_lib/energy_v1.cpp.obj.d"
   "CMakeFiles/potencial_lib.dir/include/potencial_lib/potencial_grav.cpp.obj"
   "CMakeFiles/potencial_lib.dir/include/potencial_lib/potencial_grav.cpp.obj.d"
   "libpotencial_lib.dll"

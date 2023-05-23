@@ -1,4 +1,5 @@
 #include <potencial_grav.hpp>
+#include <cmath>
 
 potencial_grav::potencial_grav (double M): M(M) {};
 double potencial_grav::operator() (double x) {
